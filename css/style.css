@@ -67,6 +67,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 1px;
+    left: 82%;
 }
 
 .image-slider .thumbnails img{
