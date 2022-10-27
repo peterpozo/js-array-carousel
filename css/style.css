@@ -49,14 +49,21 @@ body{
     color: #fff;
     border: 0;
     transition: all 300ms ease-in-out;
-    right: 50%;
+    right: 7%;
+    border-radius: 2rem;
+    background: rgba(0,0,0,0.4);
+    padding: .3rem;
 }
 
 .image-slider .back-btn {
     top: 0px;
+    font-size: 1.5rem;
+    transform: translateY(10px);
 }
 .image-slider .next-btn {
     bottom: 0px;
+    font-size: 1.5rem;
+    transform: translateY(-10px);
 }
 
 
